@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable attachment_icon
+drawable bell
+drawable category_icon
+drawable checked
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image1
+drawable image2
+drawable image3
+drawable image4
+drawable priority_icon
+drawable status_icon
+drawable uncheck
+drawable uth_logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.UTHSmartTasks
+xml backup_rules
+xml data_extraction_rules
